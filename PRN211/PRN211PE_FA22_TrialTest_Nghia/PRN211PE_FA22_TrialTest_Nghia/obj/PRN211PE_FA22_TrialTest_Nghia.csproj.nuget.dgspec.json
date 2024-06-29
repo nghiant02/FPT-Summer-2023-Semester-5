@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia.csproj",
+        "projectName": "PRN211PE_FA22_TrialTest_Nghia",
+        "projectPath": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia.csproj",
+        "packagesPath": "C:\\Users\\nghia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\PRN211PE_FA22_TrialTest_Nghia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nghia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\nghia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Summer 2023 Semester 5\\PRN211\\PRN211PE_FA22_TrialTest_Nghia\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nghia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

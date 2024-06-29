@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRN211PE_FA22_TrialTest_Nghia", "PRN211PE_FA22_TrialTest_Nghia\PRN211PE_FA22_TrialTest_Nghia.csproj", "{79A79C5E-6DDC-4ADF-8982-FC0D279127BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{078EF1F8-462E-414F-A9BB-66382EF2616F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A79C5E-6DDC-4ADF-8982-FC0D279127BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A79C5E-6DDC-4ADF-8982-FC0D279127BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A79C5E-6DDC-4ADF-8982-FC0D279127BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A79C5E-6DDC-4ADF-8982-FC0D279127BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078EF1F8-462E-414F-A9BB-66382EF2616F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078EF1F8-462E-414F-A9BB-66382EF2616F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078EF1F8-462E-414F-A9BB-66382EF2616F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078EF1F8-462E-414F-A9BB-66382EF2616F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28615B1D-08F9-46A6-B715-872F509BD497}
+	EndGlobalSection
+EndGlobal

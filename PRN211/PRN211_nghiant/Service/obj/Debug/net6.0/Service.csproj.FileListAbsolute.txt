@@ -1,0 +1,14 @@
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\bin\Debug\net6.0\Service.dll
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.dll
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Users\nghia\OneDrive\Documents\FPT Summer 2023 Semester 5\PRN211\PRN211_nghiant\Service\obj\Debug\net6.0\ref\Service.dll
